@@ -44,7 +44,7 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
  <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/fork"><img title="SHABAN-MD-V5" src="https://img.shields.io/badge/FORK-SHABAN MD V5-h?color=DeepPink&style=for-the-badge&logo=github"></a>
   
 <p align="lift">
-<a href="https://pairv5-65029392752f.herokuapp.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1-blue?style=for-the-badge&logo=heroku"></a>
+<a href="https://pairv5-65029392752f.herokuapp.com/qr"><img height= "25" title="Author" src="https://img.shields.io/badge/GET QR CODE-1-blue?style=for-the-badge&logo=heroku"></a>
 <p/>
 
 <p align="lift">
