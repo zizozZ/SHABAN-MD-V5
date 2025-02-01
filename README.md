@@ -102,6 +102,6 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 <h2 align="center">🔰 Meet My Team 🔰
 </h2>
 
-[![MR SHABAN](https://github.com/MRSHABAN40.png)](https://github.com/MRSHABAN40)  | [![Jawad Tech](https://github.com/JawadYTX.png)](https://github.com/JawadYTX) | [![SILENTLOVER432](https://github.com/SILENTLOVER40.png)](https://github.com/SILENTLOVER40) | [![MAYANK UL HAQ](https://github.com/misbha37.png)](https://github.com/misbha37)
-----|----|----|----|
-[MR SHABAN](https://github.com/MRSHABAN40)  | [Jawad Tech](https://github.com/JawadYTX) | [SILENTLOVER432](https://github.com/SILENTLOVER40) | [MAYANK UL HAQ](https://github.com/misbha37)
+[![Jawad Tech](https://github.com/JawadYTX.png)](https://github.com/JawadYTX) | [![SILENTLOVER432](https://github.com/SILENTLOVER40.png)](https://github.com/SILENTLOVER40) | [![MAYANK UL HAQ](https://github.com/misbha37.png)](https://github.com/misbha37)
+|----|----|----|
+| [Jawad Tech](https://github.com/JawadYTX) | [SILENTLOVER432](https://github.com/SILENTLOVER40) | [MAYANK UL HAQ](https://github.com/misbha37)
