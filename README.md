@@ -20,7 +20,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
 
-***BOT FEATURE ⬇️***
+***BOT FEATURE ***
 
 | Menu ⁠➜ | Status Save Sender | Group | Pair | Download | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
 |--------|---|-----|------|--------|-----|--|----|---|-----|----|--------|-----|
@@ -99,9 +99,3 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 
 <br>
 
-<h2 align="center">🔰 Meet My Team 🔰
-</h2>
-
-[![Jawad Tech](https://github.com/JawadYTX.png)](https://github.com/JawadYTX) | [![SILENTLOVER432](https://github.com/SILENTLOVER40.png)](https://github.com/SILENTLOVER40) | [![MAYANK UL HAQ](https://github.com/misbha37.png)](https://github.com/misbha37)
-|----|----|----|
-| [Jawad Tech](https://github.com/JawadYTX) | [SILENTLOVER432](https://github.com/SILENTLOVER40) | [MAYANK UL HAQ](https://github.com/misbha37)
