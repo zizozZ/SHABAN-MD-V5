@@ -29,8 +29,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
   
-![license](https://img.shields.io/github/license/misbha37/DATA-MR?color=green&label=License&style=plastic)
-
 <a
 href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
