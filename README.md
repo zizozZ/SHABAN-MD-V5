@@ -56,18 +56,6 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
  
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="lift">
-<a href='https://huggingface.co/spaces/misbha37/SHABAN-SOBX-MD-NEW' target="_blank"><img alt='huggingface' src='https://img.shields.io/badge/-huggingface Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
-
-> **Pair HuggingFace (Session ID)**
-
-<a href='https://panel-pair.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-cyan?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br>
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
  
